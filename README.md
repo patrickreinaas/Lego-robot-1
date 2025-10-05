@@ -1,5 +1,5 @@
 Code for our first work assignment in relation to the robot-lego in the subject: "Teambasert Samhandling".
-This was an introduction to programming the lego-robot using Python as the programming language. 
+This was an introduction to programming with the lego-robot while using Python as the programming language. 
 Our assignment consisted of three tasks:
 
 1. Print "Hello World" on the LCD-screen attached to the robot.
