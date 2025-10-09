@@ -9,4 +9,4 @@ Our assignment consisted of three tasks:
 Reflecting back at this assignment, I have learned/experienced:
 - How to setup and IDE and use an plugin
 - Use Python to program something that I can see, hear and touch
-- Collaborate to reach a commmon
+- Collaborate to reach a common goal
