@@ -7,6 +7,6 @@ Our assignment consisted of:
 3. Making the robot say "Have a nice day" after performing step 2.
 
 Reflecting back at this assignment, I have learned/experienced:
-- How to setup and IDE and use an plugin
+- How to setup an IDE and use a plugin for an IDE
 - Use Python to program something that I can see, hear and touch
 - Collaborate to reach a common goal
