@@ -1,4 +1,4 @@
-Code for our first work assignment in relation to the robot-lego in the subject: "Teambasert Samhandling".
+Code for our first work assignment in relation to the lego-robot in the subject: "Team-based collaboration".
 This was an introduction to programming with the lego-robot while using Python as the programming language.
 
 Our assignment consisted of:
